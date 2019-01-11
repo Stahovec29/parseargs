@@ -1,0 +1,7 @@
+# To use the skeleton
+# Make a copy of the skeleton directory, name it after the new project
+# Rename (move) the NAME directory to be the name of the new project, or what the root module should be called
+# Edit the setup.py to have all of the information for the project
+# Rename (move) tests/NAME_tests.py to have new module name
+# See that it's working by running nosetests again
+
